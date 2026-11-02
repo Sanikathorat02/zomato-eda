@@ -1,4 +1,5 @@
-# Zomato Restaurant Data: Exploratory Data Analysis
+# Codealpha Task: 1
+**Zomato Restaurant Data: Exploratory Data Analysis**
 
 ## Overview
 EDA of 148 Zomato restaurants using Python (Pandas, NumPy, Matplotlib, Seaborn, SciPy).
